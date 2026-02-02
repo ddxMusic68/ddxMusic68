@@ -13,17 +13,18 @@
   <img alt="prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
   <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-<br>
-<h3>About me</h3>
-<p>Hey I'm Jackson a highschool student & tech lover :computer:! I love problem solving and coding. Currently I'm teaching myself web devolopment with flask & bootstrap working to make good looking fullstack websites. </p>
-<br>
-<h3>Projects:</h3>
-<h4>Snake Website</h4>
-<p>I made a fullstack website where you can play snake and it comes with a leaderboard. <a href="https://github.com/ddxMusic68/snakeWebsite">click here to view</a></p>
-<h4>Bignum</h4>
-<p>I made a class that lets you make a unsigned integer with any amount of bits with many operators, it also includes a method that converts binary to decimal for printing <a href="https://github.com/ddxMusic68/bignum">click here to view</a></p>
-<h4>Password Manager</h4>
-<p>I created a password manager using "Fernet" to encrypt and decrypt, and "tkinter" for a gui. its takes a application a password and a key and encrypts the password with a key and sends it to a json file <a href="https://github.com/ddxMusic68/password_manager">click here to view</a></p>
+
+# About me
+Hey I'm Jackson a highschool student & tech lover :computer:! I love problem solving and coding. Currently I'm teaching myself web devolopment with flask & bootstrap working to make good looking fullstack websites.   
+
+# Projects:
+## LED Matrix
+Website served on rasberry pi connected to a LED matrix <a href="https://github.com/ddxMusic68/LED-matrix-website">click here to view</a>
+## Image To String
+This Python library, imgToStr, is designed to convert images into text. It uses the OpenCV library to convert a given image into a NumPy array, and then converts that array into a string using a set of characters.<a href="https://github.com/ddxMusic68/imgToStr">click here to view</a>
+## Password Manager
+I created a password manager using "Fernet" to encrypt and decrypt, and "tkinter" for a gui. its takes a application a password and a key and encrypts the password with a key and sends it to a json file <a href="https://github.com/ddxMusic68/password_manager">click here to view</a>
+
 
 
 
